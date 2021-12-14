@@ -6,7 +6,6 @@ class Rectangle extends Shape {
 
     test = () => {
         console.log(this.angle)
-        // rotate(this.angle)
-        // this.angle += radians(1)
+        
     }
 }
